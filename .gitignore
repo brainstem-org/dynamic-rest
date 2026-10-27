@@ -71,3 +71,4 @@ db.sqlite3
 .idea/
 tests/reports/
 profile
+.DS_Store
